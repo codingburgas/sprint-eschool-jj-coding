@@ -1,6 +1,6 @@
  JJ CODING TEAM   
 
- ![JJ logo](./jjdesign/CodingTeam.png)                            ![Academic Compass logo](./jjdesign/S.pg)
+ !(./jjdesign/Coding Team.png)                            !(./jjdesign/S.jpg)
 
 
 Отбора ни:+
