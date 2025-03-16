@@ -1,9 +1,9 @@
  JJ CODING TEAM   
 
- ![JJ logo](./assets/CodingTeam.png)                            ![Academic Compass logo](./assets/S.pg)
+ ![JJ logo](./jjdesign/CodingTeam.png)                            ![Academic Compass logo](./jjdesign/S.pg)
 
 
-Отбора ни:
+Отбора ни:+
 ________________________________________
 |Име                      |Роля в отбора|
 |-------------------------|-------------|
