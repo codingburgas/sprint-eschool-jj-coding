@@ -252,7 +252,7 @@ void classesMenu() {
                 cout << "__________________________________________________________________________________" << endl;
                 cout << "You got : " << pointG << " points!" << endl;
                 break;
-                
+
             case 5:
                 cout << "Going back to the main menu...\n";
                 break;

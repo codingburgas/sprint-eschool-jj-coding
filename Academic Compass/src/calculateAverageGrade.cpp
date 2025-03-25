@@ -4,6 +4,7 @@
 #include <vector>
 #include <numeric>
 using namespace std;
+
 void calculateAverageGrade() {
     system("cls");
     cout << "Menu is opening" << endl;
