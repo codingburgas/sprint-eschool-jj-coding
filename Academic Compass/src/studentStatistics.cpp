@@ -28,7 +28,7 @@ void studentStatistics() {
 
 
     cout << "\n--- Enter Student Information ---" << endl;
-    for (int i = 0; i < numStudents; ++i) {
+    for (int i = 0; i < numStudents; i++) {
         cout << "Enter the name of the student ¹" << i + 1 << ": ";
         getline(cin, students[i].name);
         cout << "Enter the grade of " << students[i].name << ": ";
@@ -43,7 +43,7 @@ void studentStatistics() {
 
 
     cout << "\n--- Student list (by grades) ---" << endl;
-    for (int i = 0; i < numStudents; ++i) {
+    for (int i = 0; i < numStudents; i++) {
         cout << i + 1 << ". " << students[i].name << " - " << students[i].grade << endl;
     }
 
